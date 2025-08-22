@@ -1,0 +1,365 @@
+{
+  "destinations": [
+    {
+      "id": 1,
+      "title": "Santorini, Greece",
+      "img": "https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/2023/11/santorini-4825173_1280-1024x675.jpg",
+      "cat": "Beach",
+      "lat": 36.3932,
+      "lng": 25.4615,
+      "blurb": "Whitewashed villages, azure domes, and sunsets that refuse to end."
+    },
+    {
+      "id": 2,
+      "title": "Kyoto, Japan",
+      "img": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?q=80&w=1400&auto=format&fit=crop",
+      "cat": "Cultural",
+      "lat": 35.0116,
+      "lng": 135.7681,
+      "blurb": "Zen gardens, shrines, and ancient tea houses tucked into lanes."
+    },
+    {
+      "id": 3,
+      "title": "Paris, France",
+      "img": "https://images2.alphacoders.com/546/546391.jpg",
+      "cat": "Romantic",
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "blurb": "The city of lights, love, art, and timeless charm."
+    },
+
+    {
+      "id": 4,
+      "title": "Dubai, UAE",
+      "img": "https://www.civitatis.com/f/emiratos-arabes-unidos/dubai/oferta-dubai-safari-589x392.jpg",
+      "cat": "Urban",
+      "lat": 25.2048,
+      "lng": 55.2708,
+      "blurb": "Futuristic skyline, desert safaris, and luxe shopping."
+    },
+    {
+      "id": 5,
+      "title": "Bali, Indonesia",
+      "img": "https://www.planetware.com/wpimages/2021/08/indonesia-bali-top-rated-beaches-kelingking-beach.jpg",
+      "cat": "Beach",
+      "lat": -8.3405,
+      "lng": 115.092,
+      "blurb": "Rice terraces, temples, and surf-friendly shores."
+    },
+    {
+      "id": 6,
+      "title": "Rome, Italy",
+      "img": "https://wallpapercrafter.com/desktop2/816276-colosseum-rome-italy-tourists-attractions-hdr.jpg",
+      "cat": "Cultural",
+      "lat": 41.9028,
+      "lng": 12.4964,
+      "blurb": "Ancient wonders mixed with espresso-fueled energy."
+    },
+    {
+      "id": 7,
+      "title": "Maharshtra Darshan",
+      "img": "https://t4.ftcdn.net/jpg/04/21/02/75/360_F_421027532_nBoEKagBjKke0k34xfrua8VcRby5gjUK.jpg",
+      "cat": "Cultural",
+      "lat": 41.9028,
+      "lng": 12.4964,
+      "blurb": "cultural richness, historical sites, and natural beauty."
+    },
+    {
+      "id": 8,
+      "title": "Adiyogi Statue",
+      "img": "https://wallpapercave.com/wp/wp8455496.jpg",
+      "cat": "Historical",
+      "lat": 41.9028,
+      "lng": 12.4964,
+      "blurb": "Lord Shiva Statue cultural richness, historical sites, and natural beauty."
+    },
+    {
+      "id": 9,
+      "title": "Kokan",
+      "img": "https://media.istockphoto.com/id/1409659781/photo/beautiful-sunset-at-harihareshwar-in-the-konkan-region-of-maharashtra-in-india.jpg?b=1&s=612x612&w=0&k=20&c=m_NVmDNWH4ny-E2p7qOly5JDXB2rwcc-uosHaLdVPFs=",
+      "cat": "Beach",
+      "lat": 41.9028,
+      "lng": 12.4964,
+      "blurb": "historical sites, and natural beauty."
+    }
+  ],
+  "tours": [
+    {
+      "id": 100,
+      "title": "Aegean Bliss",
+      "dest": "Santorini, Greece",
+      "price": 899,
+      "duration": 5,
+      "pop": 5,
+      "includes": [
+        "4N Hotel",
+        "Sunset Cruise",
+        "Wine Tasting"
+      ],
+      "itinerary": [
+        "Arrival",
+        "Oia Tour",
+        "Caldera Cruise",
+        "Beach Day",
+        "Departure"
+      ]
+    },
+    {
+      "id": 101,
+      "title": "Kyoto Classics",
+      "dest": "Kyoto, Japan",
+      "price": 1099,
+      "duration": 6,
+      "pop": 4,
+      "includes": [
+        "5N Ryokan",
+        "Tea Ceremony",
+        "Temple Pass"
+      ],
+      "itinerary": [
+        "Arrival",
+        "Gion Walk",
+        "Fushimi Inari",
+        "Arashiyama",
+        "Nara Day",
+        "Departure"
+      ]
+    },
+    {
+  "id": 106,
+  "title": "Paris City Escape",
+  "dest": "Paris, France",
+  "price": 1299,
+  "duration": 7,
+  "pop": 5,
+  "includes": [
+    "4N Hotel Stay",
+    "Eiffel Tower Tour",
+    "Seine River Cruise",
+    "City Transfers"
+  ],
+  "itinerary": [
+    "Arrival in Paris",
+    "Eiffel Tower & Seine River Cruise",
+    "Louvre Museum & Montmartre",
+    "Versailles Day Trip",
+    "Disneyland Paris / Free Day",
+    "Shopping & Local Exploration",
+    "Departure"
+  ]
+   
+},
+
+    {
+      "id": 103,
+      "title": "Bali Zen Escape",
+      "dest": "Bali, Indonesia",
+      "price": 799,
+      "duration": 4,
+      "pop": 3,
+      "includes": [
+        "3N Villa",
+        "Ubud Tour",
+        "Spa"
+      ],
+      "itinerary": [
+        "Arrival",
+        "Ubud & Rice Fields",
+        "Nusa Penida",
+        "Departure"
+      ]
+    },
+    {
+  "id": 105,
+  "title": "Manali Adventure Escape",
+  "dest": "Manali, Himachal Pradesh, India",
+  "price": 699,
+  "duration": 4,
+  "pop": 4,
+  "includes": [
+    "3N Hotel/Resort",
+    "Solang Valley Tour",
+    "Rohtang Pass (subject to permit)"
+  ],
+  "itinerary": [
+    "Arrival in Manali",
+    "Solang Valley & Adventure Activities",
+    "Rohtang Pass / Snow Point",
+    "Local Sightseeing & Departure"
+  ]
+    },
+    {
+      "id": 105,
+      "title": "Maharshtra Darshan",
+      "dest": "Lonavala,Ajanta-Ellora Caves",
+      "price": 1148,
+      "duration": 8,
+      "pop": 7,
+      "includes": [
+        "7N Hotel",
+        "Lonavala","Ajanta-Ellora Caves",
+        "5* hotel"
+      ],
+      "itinerary": [
+        "Arrival",
+        "Ancient Rome",
+        "Vatican City",
+        "Food Tour",
+        "Departure"
+      ]
+    },
+    {
+  "id": 107,
+  "title": "Konkan Coastal Escape",
+  "dest": "Alibaug, Ratnagiri, Ganpatipule, Sindhudurg",
+  "price": 8888,
+  "duration": 8,
+  "pop": 7,
+  "includes": [
+    "7N Beachside Resort/Hotel",
+    "Alibaug Fort Visit",
+    "Ganpatipule Temple",
+    "Sindhudurg Fort Tour",
+    "Seafood Experience"
+  ],
+  "itinerary": [
+    "Arrival in Alibaug & Beach Walk",
+    "Alibaug Fort & Kolaba Fort",
+    "Ratnagiri Sightseeing & Beaches",
+    "Ganpatipule Temple & Beach",
+    "Sindhudurg Fort & Tarkarli",
+    "Water Sports & Dolphin Safari",
+    "Local Konkan Food & Village Tour",
+    "Departure"
+  ]
+ },
+ {
+  "id": 108,
+  "title": "Adiyogi Spiritual Retreat",
+  "dest": "Adiyogi Statue, Coimbatore, Tamil Nadu",
+  "price": 999,
+  "duration": 5,
+  "pop": 6,
+  "includes": [
+    "4N Ashram/Hotel Stay",
+    "Adiyogi Statue Visit",
+    "Isha Yoga Center Activities",
+    "Meditation & Wellness Sessions",
+    "Local Transfers"
+  ],
+  "itinerary": [
+    "Arrival in Coimbatore",
+    "Visit Adiyogi Statue & Light Show",
+    "Isha Yoga Center Meditation & Dhyanalinga",
+    "Local Sightseeing (Marudhamalai Temple / Kovai Hills)",
+    "Departure"
+  ]
+},
+{
+  "id": 109,
+  "title": "Dubai, UAE",
+  "dest": "Dubai, United Arab Emirates",
+  "price": 1299,
+  "duration": 6,
+  "pop": 8,
+  "includes": [
+    "5N Hotel Stay",
+    "Burj Khalifa Visit",
+    "Desert Safari",
+    "Dhow Cruise with Dinner",
+    "City Transfers"
+  ],
+  "itinerary": [
+    "Arrival in Dubai & Leisure",
+    "Burj Khalifa & Dubai Mall",
+    "Desert Safari with BBQ Dinner",
+    "Dubai Marina & Dhow Cruise",
+    "Abu Dhabi Sheikh Zayed Mosque Tour",
+    "Departure"
+  ]
+}
+],
+  "vehicles": [
+    {
+      "id": 201,
+      "name": "Force Traveller",
+      "type": "Bus",
+      "img": "https://www.hiretempotraveller.in/assets/images/tempo-traveller-in-ahmedabad.jpg",
+      "seats": 20,
+      "range": "Diesel",
+      "transmission": "Manual"
+    },
+    {
+      "id": 202,
+      "name": "Force Urbania",
+      "type": "Bus",
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Force/Urbania/11852/1750078302701/front-left-side-47.jpg",
+      "seats": 17,
+      "range": "Diesel",
+      "transmission": "Manual"
+    },
+    {
+      "id": 203,
+      "name": "Kia Carens",
+      "type": "MPV",
+      "img": "https://i.pinimg.com/736x/46/55/ed/4655ed8c9af1e96959252cf06ce2dfb2.jpg",
+      "seats": 7,
+      "range": "Petrol",
+      "transmission": "Automatic"
+    },
+    {
+      "id": 204,
+      "name": "Benz glider Seating+Sleeper AC ",
+      "type": "Bus",
+      "img": "https://5.imimg.com/data5/SELLER/Default/2024/3/403265831/SJ/AK/OW/8404511/bharatbenz-glider-500x500.png",
+      "seats": 52,
+      "range": "Diesel",
+      "transmission": "Manual"
+    },
+    {
+      "id": 205,
+      "name": "Tata Nexon EV",
+      "type": "EV",
+      "img": "https://english.cdn.zeenews.com/sites/default/files/2023/09/02/1273470-tata-nexon-hero-shot.jpg",
+      "seats": 5,
+      "range": "325 km",
+      "transmission": "Automatic"
+    },
+    {
+      "id": 206,
+      "name": "Innova Crysta",
+      "type": "MPV",
+      "img": "https://images.drivespark.com/img/2023/08/toyota-innova-crysta-1690950019.jpg",
+      "seats": 7,
+      "range": "Diesel",
+      "transmission": "Automatic" 
+    },
+    {
+      "id": 207,
+      "name": "Toyota Fortuner",
+      "type": "SUV",
+      "img": "https://images.hindustantimes.com/auto/img/2020/12/31/600x338/maxresdefault_1608728512304_1608728519583_1609414578562.jpg",
+      "seats": 7,
+      "range": "Diesel",
+      "transmission": "Manual 4*4" 
+    },
+    {
+      "id": 208,
+      "name": "XUV 700",
+      "type": "SUV",
+      "img": "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/2024%20XUV700_Image%202.jpg",
+      "seats": 6,
+      "range": "Diesel",
+      "transmission": "Automatic" 
+    },
+    {
+      "id": 209,
+      "name": "ScorpioN",
+      "type": "SUV",
+      "img": "https://pbs.twimg.com/media/FUUrPJvUsAAo8-K.jpg:large",
+      "seats": 7,
+      "range": "Diesel",
+      "transmission": "Manual 4*4" 
+    }
+  ]
+}
