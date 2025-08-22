@@ -5,7 +5,6 @@ export default function BookingForm({ packages = [] }){
   const { register, handleSubmit, formState: { errors, isSubmitSuccessful }, reset } = useForm();
 
   function onSubmit(data){
-    // Simple demo: show modal confirmation
     const modalEl = document.getElementById('confirmModal');
     if (modalEl){
       const m = new window.bootstrap.Modal(modalEl);

@@ -8,7 +8,6 @@ export default function Hero(){
   const navigate = useNavigate();
 
   useEffect(()=>{
-    // gsap is loaded globally via index.html
     if (window.gsap){
       window.gsap.fromTo(titleRef.current, {y:40, opacity:0}, {y:0, opacity:1, duration:1, ease:'power3.out'});
       window.gsap.fromTo(subRef.current, {y:20, opacity:0}, {y:0, opacity:1, delay:.25, duration:1, ease:'power3.out'});
