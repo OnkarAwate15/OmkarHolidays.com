@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # OmkarHolidays.com
 Task Title: Omkar Holidays – Interactive Tour &amp; Travel Website Objective: Build a modern, responsive travel website that showcases destinations, tour packages, and vehicles (incl. a Bus section) with smooth animations and a polished UX.
 =======
 # Omkar Tour & Travel (React)
+=======
+# Omkar Tour & Travel (React)
+>>>>>>> 5e3e7ee6bd6fa8d06db63e4749e139425db28624
 
 Interactive, animated, professional-grade Tour & Travel website using **HTML5, CSS3, JavaScript, Bootstrap 5, React 18, GSAP, AOS, Swiper, Leaflet, React Router, React Hook Form**.
 
@@ -38,4 +42,7 @@ React 18, React Router 6, Bootstrap 5, GSAP, AOS, Swiper, Leaflet, React Hook Fo
 ## Notes
 - External libraries are loaded once in `public/index.html`; components access them via global objects: `window.gsap`, `window.AOS`, `window.L`, etc.
 - Replace images/video with your own assets in `public/assets` for production.
+<<<<<<< HEAD
 >>>>>>> 5e3e7ee (first commit)
+=======
+>>>>>>> 5e3e7ee6bd6fa8d06db63e4749e139425db28624
